@@ -1,0 +1,8 @@
+I need to fix my code to be presentable and to add this
+
+"but it also lacks tasks that are requested in the instruction (the evaluation of the TSNE + KMean method with the calculation of the ARI and the visualization must be carried out for the CountVectorizer, BERT, USE in addition to the TF-IDF)."
+
+
+document
+1)  P6_01 is the work i have done
+2) extraction sentences + Embeddin _v11 this i must add as well in my code

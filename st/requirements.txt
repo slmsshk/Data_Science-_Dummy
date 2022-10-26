@@ -4,3 +4,4 @@ matplotlib
 
 streamlit
 scikit-learn
+statsmodel

@@ -22,7 +22,7 @@ def header(url):
 
 header("Claimnants Dataset")
 
-data=pd.read_csv(r"C:\Users\Slmss\Desktop\excelr\claimants.csv")
+data=pd.read_csv("https://raw.githubusercontent.com/slmsshk/DataSet/main/claimants.csv")
 
 
 # Columns

@@ -1,0 +1,4 @@
+pandas==1.4.3
+scikit-learn==0.23.2
+streamlit==1.11.1
+pickle4==0.0.1
